@@ -17,7 +17,7 @@ import jakarta.servlet.http.HttpSession;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 public class VerifyContinueController extends HttpServlet {
 

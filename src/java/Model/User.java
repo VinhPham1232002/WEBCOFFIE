@@ -14,7 +14,7 @@ import javax.imageio.ImageIO;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 public class User {
     private int ID;

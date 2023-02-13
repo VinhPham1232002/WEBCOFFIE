@@ -1,7 +1,7 @@
 <%-- 
     Document   : reset
     Created on : Jun 11, 2022, 1:59:21 PM
-    Author     : phong
+    Author     : ADMIN
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

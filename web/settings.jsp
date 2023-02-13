@@ -1,7 +1,7 @@
 <%-- 
     Document   : settings
     Created on : Jun 30, 2022, 7:47:44 AM
-    Author     : phong
+    Author     : ADMIN
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

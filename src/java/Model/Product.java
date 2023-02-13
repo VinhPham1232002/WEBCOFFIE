@@ -8,7 +8,7 @@ import java.util.Base64;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 public class Product {
 

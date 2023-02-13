@@ -22,7 +22,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 @WebServlet(name = "SearchProductController", urlPatterns = "/SearchProductController")
 public class SearchProductController extends HttpServlet {

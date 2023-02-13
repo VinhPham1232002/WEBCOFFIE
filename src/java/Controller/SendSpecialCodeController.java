@@ -21,7 +21,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 @WebServlet(name = "SendSpecialCodeController", urlPatterns = "/SendSpecialCodeController")
 public class SendSpecialCodeController extends HttpServlet {

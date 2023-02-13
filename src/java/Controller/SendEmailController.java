@@ -6,7 +6,7 @@ package Controller;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 import java.util.*;
 import javax.mail.*;

@@ -23,7 +23,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 @WebServlet(name = "AdminController", urlPatterns = "/AdminController")
 public class AdminController extends HttpServlet {

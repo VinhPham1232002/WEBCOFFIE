@@ -19,7 +19,7 @@ import java.util.Random;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 @WebServlet(name="SendCodeController", urlPatterns = "/SendCodeController")
 public class SendCodeController extends HttpServlet {

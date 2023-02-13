@@ -1,7 +1,7 @@
 <%-- 
     Document   : verify
     Created on : Jun 17, 2022, 8:49:38 PM
-    Author     : phong
+    Author     : ADMIN
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

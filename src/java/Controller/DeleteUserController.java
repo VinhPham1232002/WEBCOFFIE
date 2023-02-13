@@ -17,7 +17,7 @@ import jakarta.servlet.http.HttpSession;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 @WebServlet(name = "DeleteUserController", urlPatterns = "/DeleteUserController")
 public class DeleteUserController extends HttpServlet {

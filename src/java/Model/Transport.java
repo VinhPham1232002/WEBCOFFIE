@@ -6,7 +6,7 @@ package Model;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 public class Transport {
     private int idCustomer;

@@ -16,7 +16,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 @WebServlet(name = "StaffAdminController", urlPatterns = "/StaffAdminController")
 public class ChangeStaffPassword extends HttpServlet {

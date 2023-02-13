@@ -1,7 +1,7 @@
 <%-- 
     Document   : settings
     Created on : Jun 30, 2022, 7:47:44 AM
-    Author     : phong
+    Author     : ADMIN
 --%>
 <%@ taglib uri = "http://java.sun.com/jsp/jstl/functions" prefix = "fn" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>

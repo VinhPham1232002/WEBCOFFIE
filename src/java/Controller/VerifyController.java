@@ -18,7 +18,7 @@ import java.io.PrintWriter;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 @WebServlet(name="VerifyController", urlPatterns = "/VerifyController")
 public class VerifyController extends HttpServlet {

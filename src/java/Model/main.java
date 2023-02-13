@@ -8,7 +8,7 @@ import org.apache.tomcat.util.codec.binary.Base64;
 
 /**
  *
- * @author phong
+ * @author ADMIN
  */
 public class main {
 

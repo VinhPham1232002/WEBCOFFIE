@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : Jun 4, 2022, 11:02:06 AM
-    Author     : phong
+    Author     : ADMIN
 --%>
 <%@ taglib uri = "http://java.sun.com/jsp/jstl/functions" prefix = "fn" %>
 <%@ taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql" %>
@@ -577,7 +577,7 @@
                                 </a>
                             </div>
                             <span class="footer__copy">
-                                @ PhongNguyen. All rights reserved
+                                @ VinhPham. All rights reserved
                             </span>
                         </div>
                     </div>
